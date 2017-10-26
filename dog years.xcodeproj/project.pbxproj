@@ -12,6 +12,7 @@
 		AF669B2F1F95BA2F004487BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF669B2D1F95BA2F004487BE /* Main.storyboard */; };
 		AF669B311F95BA2F004487BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF669B301F95BA2F004487BE /* Assets.xcassets */; };
 		AF669B341F95BA2F004487BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF669B321F95BA2F004487BE /* LaunchScreen.storyboard */; };
+		AF669B3E1F95C134004487BE /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AF669B3D1F95C134004487BE /* dog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AF669B301F95BA2F004487BE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF669B331F95BA2F004487BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF669B351F95BA2F004487BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF669B3D1F95C134004487BE /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = images/dog.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AF669B301F95BA2F004487BE /* Assets.xcassets */,
 				AF669B321F95BA2F004487BE /* LaunchScreen.storyboard */,
 				AF669B351F95BA2F004487BE /* Info.plist */,
+				AF669B3D1F95C134004487BE /* dog.jpg */,
 			);
 			path = "dog years";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF669B3E1F95C134004487BE /* dog.jpg in Resources */,
 				AF669B341F95BA2F004487BE /* LaunchScreen.storyboard in Resources */,
 				AF669B311F95BA2F004487BE /* Assets.xcassets in Resources */,
 				AF669B2F1F95BA2F004487BE /* Main.storyboard in Resources */,
